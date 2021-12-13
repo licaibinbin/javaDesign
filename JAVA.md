@@ -97,6 +97,7 @@
       - [**7、ThreadLocal原理**](#7threadlocal原理)
       - [**8、HashMap线程安全**](#8hashmap线程安全)
       - [9、String不可变原因](#9string不可变原因)
+      - [10.lock.lock()放在try前面](https://jishuin.proginn.com/p/763bfbd38c08)
     - [内存模型](#内存模型)
       - [**1、volatile底层实现**](#1volatile底层实现)
       - [**2、AQS思想**](#2aqs思想)
